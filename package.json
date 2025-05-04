@@ -1,0 +1,15 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "A simple task manager API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
